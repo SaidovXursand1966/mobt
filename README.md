@@ -1,0 +1,1 @@
+bu ikonkalar papkasi.
