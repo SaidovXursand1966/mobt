@@ -1,0 +1,54 @@
+﻿{
+  "name": "Maktab inspektor-psixologi — MOBT",
+  "short_name": "Inspektor",
+  "description": "Maktab inspektor-psixologi uchun profilaktik hisob va tartibbuzarliklar reyestri",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fa",
+  "theme_color": "#173b67",
+  "lang": "uz",
+  "dir": "ltr",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Yangi anketa",
+      "short_name": "Anketa",
+      "url": "./index.html#anketa",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Reyestr",
+      "short_name": "Reyestr",
+      "url": "./index.html#reyestr",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Hisobot",
+      "short_name": "Hisobot",
+      "url": "./index.html#hisobot",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
