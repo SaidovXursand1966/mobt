@@ -1,6 +1,6 @@
 ﻿/* ============================================================
    MOBT — Service Worker
-   Maktab inspektor-psixologi uchun oflayn ishlash
+   Maktab inspektor-psixologi uchun oflayn ishlash dasturi. X.saidov. Urgut. 
 ============================================================ */
 
 const CACHE_VERSION = 'v1.0.0';
