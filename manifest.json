@@ -13,19 +13,19 @@
   "categories": ["education", "productivity", "utilities"],
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icons/icon-192.png?v=2",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icons/icon-512.png?v=2",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icons/icon-192-maskable.png",
+      "src": "icons/icon-192-maskable.png?v=2",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
@@ -42,13 +42,13 @@
       "name": "Reyestr",
       "short_name": "Reyestr",
       "url": "./index.html#reyestr",
-      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icons/icon-192.png?v=2", "sizes": "192x192" }]
     },
     {
       "name": "Hisobot",
       "short_name": "Hisobot",
       "url": "./index.html#hisobot",
-      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icons/icon-192.png?v=2", "sizes": "192x192" }]
     }
   ]
 }
